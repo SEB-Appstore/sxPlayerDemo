@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Demo</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>dvideos120</string>
+		<string>icon.png</string>
+		<string>icon@2x.png</string>
+	</array>
+	<key>CFBundleIconFiles~ipad</key>
+	<array>
+		<string>dvideos152</string>
+		<string>dvideos76</string>
+		<string>dvideos120</string>
+		<string>icon.png</string>
+		<string>icon@2x.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.SEB.sxPlayerDemo</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>5cent.TTF</string>
+		<string>08 Underground.ttf</string>
+		<string>MAWNS' Graffiti Filled.ttf</string>
+		<string>RuthlessWreckinONE.ttf</string>
+		<string>BOMBFONT TRIAL.otf</string>
+		<string>whoa!.ttf</string>
+		<string>UrbanJungleDEMO.otf</string>
+		<string>writers_bold.TTF</string>
+		<string>writers_original.TTF</string>
+		<string>writers_condensed.TTF</string>
+		<string>Ghang_Plain.ttf</string>
+		<string>Ghang.ttf</string>
+		<string>MagikMarker.otf</string>
+		<string>enlighten.ttf</string>
+		<string>Jungle LIFE.ttf</string>
+		<string>Inner City.ttf</string>
+		<string>Crazy Calligraphy.ttf</string>
+		<string>amsterdam.ttf</string>
+		<string>Esquisito.ttf</string>
+		<string>TouristTrap.ttf</string>
+		<string>Grand Stylus.ttf</string>
+		<string>ToBeContinued.ttf</string>
+		<string>THUG____.TTF</string>
+		<string>JUICE___.TTF</string>
+		<string>degrassi.ttf</string>
+		<string>CRUZE2.ttf</string>
+		<string>NACHOTL_.ttf</string>
+		<string>Julia_b.ttf</string>
+		<string>subway.TTF</string>
+		<string>Whatka!.ttf</string>
+		<string>Searfont.ttf</string>
+		<string>RUFA.ttf</string>
+		<string>planet bensoon 2.ttf</string>
+		<string>N!CE_Tag.TTF</string>
+		<string>throwupz.ttf</string>
+		<string>NOSED___.TTF</string>
+	</array>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv6</string>
+	</array>
+	<key>UIStatusBarHidden</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

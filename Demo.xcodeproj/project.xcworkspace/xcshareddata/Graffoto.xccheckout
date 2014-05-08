@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>829F36B5-22C4-45ED-BBB9-2B6D29538349</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Graffoto</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C710D45C-3ACE-4F0F-8350-476669775B42</key>
+		<string>ssh://github.com/lvjian700/ffmpegc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Graffoto/Graffoto.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C710D45C-3ACE-4F0F-8350-476669775B42</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lvjian700/ffmpegc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C710D45C-3ACE-4F0F-8350-476669775B42</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C710D45C-3ACE-4F0F-8350-476669775B42</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ffmpegc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
