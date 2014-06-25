@@ -118,6 +118,9 @@
 		9683249819015A7B00E14525 /* dvideos120.png in Resources */ = {isa = PBXBuildFile; fileRef = 9683249419015A7B00E14525 /* dvideos120.png */; };
 		9683249919015A7B00E14525 /* dvideos144.png in Resources */ = {isa = PBXBuildFile; fileRef = 9683249519015A7B00E14525 /* dvideos144.png */; };
 		9683249A19015A7B00E14525 /* dvideos152.png in Resources */ = {isa = PBXBuildFile; fileRef = 9683249619015A7B00E14525 /* dvideos152.png */; };
+		96ABFEC01958C23000E808C1 /* Request Mac App.png in Resources */ = {isa = PBXBuildFile; fileRef = 96ABFEBE1958C23000E808C1 /* Request Mac App.png */; };
+		96ABFEC11958C23000E808C1 /* AddFolder.png in Resources */ = {isa = PBXBuildFile; fileRef = 96ABFEBF1958C23000E808C1 /* AddFolder.png */; };
+		96ABFEC51958C2A400E808C1 /* folderIconBack.png in Resources */ = {isa = PBXBuildFile; fileRef = 96ABFEC41958C2A400E808C1 /* folderIconBack.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -236,6 +239,9 @@
 		9683249419015A7B00E14525 /* dvideos120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dvideos120.png; sourceTree = "<group>"; };
 		9683249519015A7B00E14525 /* dvideos144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dvideos144.png; sourceTree = "<group>"; };
 		9683249619015A7B00E14525 /* dvideos152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dvideos152.png; sourceTree = "<group>"; };
+		96ABFEBE1958C23000E808C1 /* Request Mac App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Request Mac App.png"; sourceTree = "<group>"; };
+		96ABFEBF1958C23000E808C1 /* AddFolder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AddFolder.png; sourceTree = "<group>"; };
+		96ABFEC41958C2A400E808C1 /* folderIconBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = folderIconBack.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -319,6 +325,9 @@
 		961D062C152E2F610081C6F2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				96ABFEBE1958C23000E808C1 /* Request Mac App.png */,
+				96ABFEBF1958C23000E808C1 /* AddFolder.png */,
+				96ABFEC41958C2A400E808C1 /* folderIconBack.png */,
 				9605DC3B191AD47A00989614 /* Videos.png */,
 				9605DC3C191AD47A00989614 /* Folders.png */,
 				9605DC3D191AD47A00989614 /* folderIcon.png */,
@@ -473,6 +482,7 @@
 				9605DC5C191AD55800989614 /* playback_pause@2x.png in Resources */,
 				96832380190153A200E14525 /* htmlFile.png in Resources */,
 				96832398190153A200E14525 /* movFile.png in Resources */,
+				96ABFEC11958C23000E808C1 /* AddFolder.png in Resources */,
 				9605DC49191AD4F400989614 /* folderIcon.png in Resources */,
 				9605DC4A191AD4F400989614 /* musicIcon.jpg in Resources */,
 				9605DC41191AD47A00989614 /* folderIcon.png in Resources */,
@@ -505,6 +515,7 @@
 				96832397190153A200E14525 /* flvFile.png in Resources */,
 				9683239D190153A200E14525 /* clears.png in Resources */,
 				96832385190153A200E14525 /* m4vFile.png in Resources */,
+				96ABFEC01958C23000E808C1 /* Request Mac App.png in Resources */,
 				968323A3190153A200E14525 /* Default-Landscape~ipad.png in Resources */,
 				9683239C190153A200E14525 /* backAlertx.png in Resources */,
 				9683239E190153A200E14525 /* Default.png in Resources */,
@@ -540,6 +551,7 @@
 				96832352190153A200E14525 /* Tutorial.png in Resources */,
 				96832392190153A200E14525 /* m4rFile.png in Resources */,
 				968323A1190153A200E14525 /* Default-Portrait@2x~ipad.png in Resources */,
+				96ABFEC51958C2A400E808C1 /* folderIconBack.png in Resources */,
 				9683249919015A7B00E14525 /* dvideos144.png in Resources */,
 				96832381190153A200E14525 /* jpegFile.png in Resources */,
 				96832384190153A200E14525 /* m4aFile.png in Resources */,

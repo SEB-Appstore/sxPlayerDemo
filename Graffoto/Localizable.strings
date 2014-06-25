@@ -1,0 +1,183 @@
+/*
+ Localizable.strings
+ 
+ */
+"Select an Album"="Select an Album";
+"Media Selected"="Videos Selected";
+"Sort"="Sort";
+"Relevance"="Relevance";
+"View Count"="View Count";
+"Cancel"="Cancel";
+"Failed"="Failed loading video";
+"Search Options: Sort by"="Search Options: Sort by";
+"Upload Date"="Upload Date";
+"Rating"="Rating";
+"No video found"="No video found";
+"Search"="Search";
+"Select video resolution"="Select video resolution";
+
+"Deleting Files..."="Deleting Files...";
+"Moving Files..."="Moving Files...";
+"Copying Files..."="Copying Files...";
+"Importing Files..."="Importing Videos...";
+"Loading..."="Loading...";
+"Space Available"="Available";
+
+"Request Mac App"="Request Mac App";
+"EmailTextMacApp"="Hello SEB,<br><br>Please send me the DownPlayer Mac App.<br><br>Thank you.";
+
+"Organize"="Organize";
+"Import"="Import";
+"Share"="Share";
+"Protect"="Protect";
+"Lock App"="Lock App";
+"Share App"="Share App";
+"More App"="More Apps";
+"AddFolder"="Create Folder";
+
+"Move"="Move";
+"Copy"="Copy";
+"Zip"="Zip";
+"Delete"="Delete";
+"Delete Files"="Delete Files?";
+
+"videoSaved"="The Video has been saved in your Camera roll";
+//connection
+"Enter the following address to connect to the HTTP server"="Enter the red url in an internet web browser to access, upload and download videos and musics from your iPhone/iPad";
+
+"Enter the following address to connect to the WebDAV server"="1. Connect your iPhone/iPad and your computer to the same Wi-Fi network.\n2. Open the Finder, press Command+K and then enter the following address to connect to the WebDAV server";
+"HTTP"="Internet Server";
+"WebDAV"="Wifi HardDrive";
+"No internet connection available"="No internet connection available";
+
+"webDavEn"="webDavDPEn";
+"webDavWinEn"="webDavWinDPEn";
+//
+
+"Enter Passcode" = "Enter Passcode";
+
+"Enter your old passcode" = "Enter your old passcode";
+
+"Enter your passcode" = "Enter your passcode";
+
+"Enable Passcode" = "Enable Passcode";
+
+"Change Passcode" = "Change Passcode";
+
+"Turn Off Passcode" = "Turn Off Passcode";
+
+"Re-enter your passcode" = "Re-enter your passcode";
+
+"Re-enter your new passcode" = "Re-enter your new passcode";
+
+"Enter your new passcode" = "Enter your new passcode";
+
+"Passcodes did not match. Try again." = "Passcodes did not match. Try again.";
+
+"1 Passcode Failed Attempt" = "1 Passcode Failed Attempt";
+
+"%i Passcode Failed Attempts" = "%i Passcode Failed Attempts";
+
+"Too much Failed Attempts"="Too many Failed Attempts";
+"If you fail another time all your data will deleted"="Another failed attempt and all your data will deleted";
+"Delete all data and unlock"="Delete all data and unlock";
+"Delete and unlock"="Delete and unlock";
+"All data deleted"="The app is now unlocked and all data have been deleted";
+//tuto
+"tutoAirDrive"="tutoDownPlayerEn";
+
+
+//webbrowser
+
+"See current downloads"="See current downloads";
+"No current downloads"="No current downloads";
+
+"Download this file?"="Download this file?";
+"View"="View";
+"Download"="Download";
+
+
+//
+"The following files are hosted live from the iPhone's"="The following files are hosted live from the iDevice's";
+"Folder"="Folder";
+"Folders"="Folder";
+//
+"Back"="Back";
+"Tracks"="Tracks";
+//main
+"All"="All";
+"None"="None";
+
+"Name Descending"="Name Descending";
+"Name Ascending"="Name Ascending";
+"Size Descending"="Size Descending";
+"Size Ascending"="Size Ascending";
+"Type Descending"="Type Descending";
+"Type Ascending"="Type Ascending";
+"Date Descending"="Date Descending";
+"Date Ascending"="Date Ascending";
+"WebDAV"="Wifi HardDrive";
+"HTTP"="Internet Server";
+"Camera Roll"="Camera Roll";
+"Camera"="Camera";
+"Internet"="Internet";
+"Songs"="Songs";
+"Text"="Text";
+"Audio Record"="Audio Record";
+"Tutorial"="Tutorial";
+"Ask Question"="Ask Question";
+"Report Bug"="Report Bug";
+"Suggestions"="Suggestions";
+"More Apps"="More Apps";
+"Rate App"="Rate App";
+
+"Select Audio"="Select Audio";
+
+
+"Are you sure?"="Are you sure?";
+"Nope"="NO";
+"Yeah"="YES";
+"Rename File"="Rename File";
+"Rename"="Rename";
+"New name"="New name";
+"EmailTextVideo"="Files sent with AirDrive";
+"SavedEmail"="Email Saved";
+"SavedEmailMessage"="Your email has been saved in  your mailbox";
+"SentEmail"="Email Sent";
+"SentEmailMessage"="Your email has been sent";
+"MailError"="Error Email";
+"MailErrorMessage"="An error occured while sending the email";
+"Cancel"="Cancel";
+"Create"="Create";
+"Folder name"="Folder name";
+"Create Folder"="Create Folder";
+"Delete Files?"="Delete Files?";
+"Rename File"="Rename File";
+
+"EmailTextQuestion"="<strong>Detail what is your question:</strong></br></br></br>";
+"EmailTextBug"="<strong>Explain precisely what is the bug and how to reproduce it:</strong></br></br></br></br>";
+"EmailTextSuggestion"="<strong>Send us your suggestions and feedbacks to improve the app. What would you like for the app?</strong>";
+
+
+"Files Copied"="Files Copied";
+"The files have been copied"="The files have been copied";
+"Files Moved"="Files Moved";
+"The files have been moved"="The files have been moved";
+"Media Saved"="Media Saved";
+"The media have been saved in your Camera Roll"="The media have been saved in your Camera Roll";
+"Files Deleted"="Files Deleted";
+"The files have been deleted"="The files have been deleted";
+"Files renamed"="Files renamed";
+"The files have been removed"="The files have been removed";
+
+//passcode
+"Change Passcode"="Change Passcode";
+"Activate Passcode"="Activate Passcode";
+"Deactivate Passcode"="Deactivate Passcode";
+//detail
+
+"Drawing"="Drawing";
+"Brush"="Brush";
+"Draw"="Draw";
+"Erase"="Erase";
+

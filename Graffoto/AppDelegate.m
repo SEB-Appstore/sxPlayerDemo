@@ -34,7 +34,25 @@
         myLibraryResourcesBundle = [NSBundle bundleWithURL:[[NSBundle mainBundle] URLForResource:@"sxPlayerRessources" withExtension:@"bundle"]];
         UIStoryboard* story=[UIStoryboard storyboardWithName:@"Main" bundle:myLibraryResourcesBundle];
         MainViewController* m=[story instantiateViewControllerWithIdentifier:@"MainView"];
-        self.navigationController = [[[UINavigationController_Rotation alloc] initWithRootViewController:m] autorelease];
+         // self.navigationController = [[[UINavigationController_Rotation alloc] initWithRootViewController:m] autorelease];
+          self.navigationController = [story instantiateViewControllerWithIdentifier:@"NavController"];;
+         self.navigationController.downloading = [story instantiateViewControllerWithIdentifier:@"Downloader"];
+        
+         self.navigationController.downloading.list=[[NSMutableArray alloc] initWithCapacity:0] ;
+         self.navigationController.downloading.dataList=[[NSMutableArray alloc] initWithCapacity:0] ;
+         self.navigationController.downloading.connectionList=[[NSMutableArray alloc] initWithCapacity:0] ;
+        self.navigationController.viewControllers=[NSArray arrayWithObject:m];
+        [[NSNotificationCenter defaultCenter] addObserver:self
+                                                 selector:@selector(applicationWillResignActive:)
+                                                     name:UIApplicationWillResignActiveNotification
+                                                   object:[UIApplication sharedApplication]];
+        
+        
+        [[NSNotificationCenter defaultCenter] addObserver:self
+                                                 selector:@selector(applicationDidEnterBackground:)
+                                                     name:UIApplicationWillResignActiveNotification
+                                                   object:[UIApplication sharedApplication]];
+      
         [self.navigationController.navigationBar setBarStyle:UIBarStyleBlackTranslucent];
         [self.navigationController.navigationBar setTintColor:[UIColor redColor]];
         self.window.rootViewController = self.navigationController;
