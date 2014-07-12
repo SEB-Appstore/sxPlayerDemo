@@ -31,7 +31,7 @@
 "Share"="Share";
 "Protect"="Protect";
 "Lock App"="Lock App";
-"Share App"="Share App";
+"Share App"="Spread the word";
 "More App"="More Apps";
 "AddFolder"="Create Folder";
 
@@ -130,6 +130,8 @@
 "Suggestions"="Suggestions";
 "More Apps"="More Apps";
 "Rate App"="Rate App";
+"Share App Text"="You should check out this app: <a href=\"https://itunes.apple.com/us/app/downplayer-download-play-any/id856893033?ls=1&mt=8\">DownPlayer</a>";
+
 
 "Select Audio"="Select Audio";
 

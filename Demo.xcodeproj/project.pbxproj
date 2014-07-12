@@ -35,6 +35,10 @@
 		961D0630152E2F610081C6F2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 961D062E152E2F610081C6F2 /* InfoPlist.strings */; };
 		961D0632152E2F610081C6F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 961D0631152E2F610081C6F2 /* main.m */; };
 		961D0636152E2F610081C6F2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 961D0635152E2F610081C6F2 /* AppDelegate.m */; };
+		967B48C51970BF86007816BA /* Share App.png in Resources */ = {isa = PBXBuildFile; fileRef = 967B48C11970BF85007816BA /* Share App.png */; };
+		967B48C61970BF86007816BA /* More App.png in Resources */ = {isa = PBXBuildFile; fileRef = 967B48C21970BF85007816BA /* More App.png */; };
+		967B48C71970BF86007816BA /* More Apps.png in Resources */ = {isa = PBXBuildFile; fileRef = 967B48C31970BF85007816BA /* More Apps.png */; };
+		967B48C81970BF86007816BA /* Lock App.png in Resources */ = {isa = PBXBuildFile; fileRef = 967B48C41970BF86007816BA /* Lock App.png */; };
 		96831F08190145EA00E14525 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 96831F07190145EA00E14525 /* Default-568h@2x.png */; };
 		968322E119014ED100E14525 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 968322D919014ED100E14525 /* libavcodec.a */; };
 		968322E219014ED100E14525 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 968322DA19014ED100E14525 /* libavdevice.a */; };
@@ -156,6 +160,10 @@
 		961D0633152E2F610081C6F2 /* Demo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Demo-Prefix.pch"; sourceTree = "<group>"; };
 		961D0634152E2F610081C6F2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		961D0635152E2F610081C6F2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		967B48C11970BF85007816BA /* Share App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Share App.png"; sourceTree = "<group>"; };
+		967B48C21970BF85007816BA /* More App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "More App.png"; sourceTree = "<group>"; };
+		967B48C31970BF85007816BA /* More Apps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "More Apps.png"; sourceTree = "<group>"; };
+		967B48C41970BF86007816BA /* Lock App.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Lock App.png"; sourceTree = "<group>"; };
 		96831F07190145EA00E14525 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		968322D919014ED100E14525 /* libavcodec.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libavcodec.a; path = lib/libavcodec.a; sourceTree = "<group>"; };
 		968322DA19014ED100E14525 /* libavdevice.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libavdevice.a; path = lib/libavdevice.a; sourceTree = "<group>"; };
@@ -331,6 +339,10 @@
 				9605DC3B191AD47A00989614 /* Videos.png */,
 				9605DC3C191AD47A00989614 /* Folders.png */,
 				9605DC3D191AD47A00989614 /* folderIcon.png */,
+				967B48C11970BF85007816BA /* Share App.png */,
+				967B48C21970BF85007816BA /* More App.png */,
+				967B48C31970BF85007816BA /* More Apps.png */,
+				967B48C41970BF86007816BA /* Lock App.png */,
 				9605DC3E191AD47A00989614 /* musicIcon.jpg */,
 				9683249319015A7B00E14525 /* dvideos76.png */,
 				9683249419015A7B00E14525 /* dvideos120.png */,
@@ -527,6 +539,7 @@
 				96832351190153A200E14525 /* Suggestions.png in Resources */,
 				968323A2190153A200E14525 /* Default-Portrait~ipad.png in Resources */,
 				96832355190153A200E14525 /* Report Bug.png in Resources */,
+				967B48C51970BF86007816BA /* Share App.png in Resources */,
 				9605DC5D191AD55800989614 /* playback_play.png in Resources */,
 				968324921901594300E14525 /* tutoAirDrive.pdf in Resources */,
 				9683234F190153A200E14525 /* YouTube.png in Resources */,
@@ -563,6 +576,7 @@
 				96832393190153A200E14525 /* xlsxFile.png in Resources */,
 				9683235D190153A200E14525 /* downTi.png in Resources */,
 				96832395190153A200E14525 /* zipFile.png in Resources */,
+				967B48C61970BF86007816BA /* More App.png in Resources */,
 				9605DC62191AD55800989614 /* playback_rew@2x.png in Resources */,
 				9683237F190153A200E14525 /* cafFile.png in Resources */,
 				9683235E190153A200E14525 /* downw.png in Resources */,
@@ -571,9 +585,11 @@
 				9605DC48191AD4F400989614 /* Folders.png in Resources */,
 				96832356190153A200E14525 /* Ask Question.png in Resources */,
 				96832362190153A200E14525 /* webDavEn.pdf in Resources */,
+				967B48C81970BF86007816BA /* Lock App.png in Resources */,
 				9683234E190153A200E14525 /* WebDAV.png in Resources */,
 				9683239B190153A200E14525 /* sort.png in Resources */,
 				968323A0190153A200E14525 /* Default-568h@2x.png in Resources */,
+				967B48C71970BF86007816BA /* More Apps.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -635,8 +651,8 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "6D120606-6B93-47BC-B898-8EBF955D7CBA";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6D120606-6B93-47BC-B898-8EBF955D7CBA";
+				PROVISIONING_PROFILE = "D4384348-90AB-4B8F-98CC-64761D9C5E06";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D4384348-90AB-4B8F-98CC-64761D9C5E06";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -667,8 +683,8 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
-				PROVISIONING_PROFILE = "6D120606-6B93-47BC-B898-8EBF955D7CBA";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "6D120606-6B93-47BC-B898-8EBF955D7CBA";
+				PROVISIONING_PROFILE = "D4384348-90AB-4B8F-98CC-64761D9C5E06";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "D4384348-90AB-4B8F-98CC-64761D9C5E06";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
 			};
